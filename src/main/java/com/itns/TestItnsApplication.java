@@ -78,7 +78,7 @@ public class TestItnsApplication {
 
             }
 
-
+//OK
 
             societyDao.findAll().forEach(society -> {
                 System.out.println(society.toString());
